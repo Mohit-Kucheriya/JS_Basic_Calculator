@@ -1,0 +1,24 @@
+.calcultaor-conatiner {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculator {
+  height: 400px;
+  width: 250px;
+  /* border: 2px solid black; */
+}
+
+.cal-buttons {
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid black;
+  /* border: 1px solid black; */
+}
+
+.cal-buttons:hover {
+  background-color: yellow;
+}
